@@ -13,8 +13,8 @@ A simple URL shortener written in Go. This application generates short URLs usin
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/url-shortener.git
-cd url-shortener
+git clone https://github.com/alokkcode/GoShortly
+cd GoShortly
 ```
 
 ### Initialize the Project
@@ -63,5 +63,5 @@ This project is open-source and available under the MIT License.
 Feel free to submit issues and pull requests!
 
 ## Author
-[Your Name](https://github.com/your-username)
+[Alok Kumar](https://github.com/alokkcode)
 
