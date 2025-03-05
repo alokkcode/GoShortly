@@ -19,7 +19,7 @@ cd GoShortly
 
 ### Initialize the Project
 ```sh
-go mod init url-shortener
+go mod init GoShortly
 go mod tidy
 ```
 
